@@ -112,4 +112,3 @@ http://localhost:8501
 ## Acknowledgments
 
 - Dataset: [New Plant Diseases Dataset – Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
-- Built for sustainable agriculture 🌱
