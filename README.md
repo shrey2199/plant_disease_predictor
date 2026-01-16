@@ -43,14 +43,14 @@ https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 ## Project Structure
 
 ```
-plant-disease-detection/
+plant_disease_predictor/
 ├── app.py                        # Streamlit web application
 ├── PlantDiseaseDetection.ipynb   # Jupyter notebook used for training
-├── plant_disease_cnn_model.keras # Trained model file (not in git – download separately)
+├── plant_disease_cnn_model.keras # Trained model file (download from releases)
 ├── Disease.png                   # Demo image used in app & README
 ├── requirements.txt
 ├── README.md
-└── (new_plant_diseases/          # dataset folder – not included in repo)
+└── new_plant_diseases/          # dataset folder (download from kaggle)
 ```
 
 ## Installation
